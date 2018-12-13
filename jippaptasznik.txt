@@ -1,0 +1,9 @@
+JiPP
+zadanie indywidualne w visual studio
+
+
+lab1
+login: test
+has³o: wwsitest
+
+nie sprawdza obecnosci 
