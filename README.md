@@ -22,7 +22,7 @@
 (more about versions in pom.xml)
 
 ## :construction_worker: Status
-Project is: _in progress_
+Project is: finished.
 
 ## :bulb: Inspiration
 Based on: 
